@@ -1,0 +1,15 @@
+.recycle-card-item{
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  box-sizing: border-box;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.trash-icon{
+  cursor: pointer;
+}
+.trash-icon svg path{
+  fill: rgb(224, 99, 99);
+}
