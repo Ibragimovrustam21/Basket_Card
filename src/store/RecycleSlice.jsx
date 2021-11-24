@@ -19,25 +19,25 @@ const RecycleSlice = createSlice({
       },
       {
         name: 'Garlic',
-        price: 14.77,
+        price: 14,
         img: garlic,
         category: 'vegetables'
       },
       {
         name: 'Strawberry',
-        price: 10.99,
+        price: 10,
         img: strawberry,
         category: 'fruits'
       },
       {
         name: 'Lemon',
-        price: 16.5,
+        price: 16,
         img: lemon,
         category: 'fruits'
       },
       {
         name: 'Potato',
-        price: 8.99,
+        price: 8,
         img: potato,
         category: 'vegetables'
       },
